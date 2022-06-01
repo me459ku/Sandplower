@@ -8,7 +8,7 @@ Go to the theme [documentation](https://learn.netlify.app/en/) page to learn how
 {{<youtube QWm5tYQJXo4>}}
 
 ```matlab
-f=@(x) x.^2+x
+f=@(x) x.^2+xgggkbkbjbjj
 ```
 
 
