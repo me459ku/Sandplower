@@ -1,21 +1,24 @@
----
-title: "Sand Sweeper"
----
+# **Sand sweeper**
+____
+By : 
 
-# Sand Sweeper
-![](images/logo_transparent_background.png)
-Go to the theme [documentation](https://learn.netlify.app/en/) page to learn how to use the theme's features.
-{{<youtube QWm5tYQJXo4>}}
+ **Eng. Abdulaziz Al-Fouzan**
 
-```matlab
-f=@(x) x.^2+xgggkbkbjbjj
-```
+**Eng. Abdulaziz Al-Youhah**
 
+ **Eng. Abdulwahab Al-Bassam**
 
-[Kuwait University](https://portal.ku.edu.kw/sisapp/faces/login.jspx?_afrWindowMode=0&_afrLoop=679389271767465&_adf.ctrl-state=3p7d5r642_4#TS00000000076=b7badcb0152d51080162978d436705ae096947ba5ad1b275929a7a6402074fab37)
+**Eng. Mosab Marafi**
+___
+### Abstract 
+Sand accumulation on roads and streets is a significant problem facing Kuwait and the nearby countries. The sands impede the move ment of vehicles and cause car accidents. Fur thermore, it stands in the way of expanding and developing new cities and costs the coun try thousands of dinars every year. The "Sand Sweeper" is a car attachment with road sweep ing and bulldozing capabilities, specialized in removing the accumulated sand on the road to allow vehicles to pass through it.
+___
 
-[PDF file](files/Instructions_Fall2021.pdf)
+### Reports :
 
-![](images/moving_bike.gif)
+[Project Plan and Product Target Specifications](files/Group%20A%20Phase%201%20Report%20(2).pdf)
+
+[Concept Generation and System-Level Design](files/Phase-2%20Report%20(1).pdf)
+
 
 

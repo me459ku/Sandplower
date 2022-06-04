@@ -13,7 +13,7 @@ home = [ "HTML", "RSS", "JSON"]
   # See the config.toml file from this documentation site to have an example.
   editURL = ""
   # Author of the site, will be used in meta information
-  author = ""
+  author = "Abdulaziz Al-Youhah"
   # Description of the site, will be used in meta information
   description = ""
   # Shows a checkmark for visited pages on the menu
@@ -43,7 +43,7 @@ home = [ "HTML", "RSS", "JSON"]
   # Order sections in menu by "weight" or "title". Default to "weight"
   ordersectionsby = "weight"
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "blue"
+  themeVariant = "gold"
   # Provide a list of custom css files to load relative from the `static/` folder in the site root.
   custom_css = ["css/foo.css", "css/bar.css"]
   # Change the title separator. Default to "::".
@@ -53,18 +53,18 @@ home = [ "HTML", "RSS", "JSON"]
 name = "<i class='fas fa-building'></i> Kuwait University"
 identifier = "ds"
 url = "http://www.kuniv.edu.kw/"
-weight = 10
+weight = 11
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-cubes'></i> ME459 Engineering Design"
 url = "https://me459ku.github.io/"
-weight = 11
+weight = 12
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-bookmark'></i> Other Link 1"
+name = "<i class='fas fa-bookmark'></i> Media Post"
 identifier = "hugodoc"
-url = "https://gohugo.io/"
-weight = 20
+url = "https://twitter.com/ETAC_ENG/status/1527997213263245312"
+weight = 10
 
 [markup.goldmark.renderer]
 unsafe= true
