@@ -10,7 +10,7 @@ By :
 
 **Eng. Mosab Marafi**
 ___
-### Abstract 
+### Abstracttttt 
 Sand accumulation on roads and streets is a significant problem facing Kuwait and the nearby countries. The sands impede the move ment of vehicles and cause car accidents. Fur thermore, it stands in the way of expanding and developing new cities and costs the coun try thousands of dinars every year. The "Sand Sweeper" is a car attachment with road sweep ing and bulldozing capabilities, specialized in removing the accumulated sand on the road to allow vehicles to pass through it.
 ___
 
