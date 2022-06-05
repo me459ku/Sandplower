@@ -1,4 +1,4 @@
-# **Sand sweeper** 
+# **Sand sweeper**
 ____
 By : 
  **Eng. Abdulaziz Al-Fouzan**/
@@ -8,6 +8,9 @@ By :
 **Eng. Abdulwahab Al-Bassam**/
 <i class="fa-solid fa-gear"></i>
 **Eng. Mosab Marafi**
+
+
+
 
 
 
@@ -21,6 +24,14 @@ ___
 [Project Plan and Product Target Specifications](files/Group%20A%20Phase%201%20Report%20(2).pdf)
 
 [Concept Generation and System-Level Design](files/Phase-2%20Report%20(1).pdf)
+___
+
+### Project poster :
+![](images/Mediapost.png?width=40pc)
+___
+
+
+Contact us : SandSweeperKU@gmail.com
 
 
 
