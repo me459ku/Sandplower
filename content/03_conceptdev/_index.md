@@ -18,6 +18,5 @@ Since governments with desert climates were considered to be the primary market,
 
 
 ## Initial Design Concept
-![](images/fvgcv.png)
-
+![](images/fvgcv.png?width=40pc)
 ## Functional Decomposition
