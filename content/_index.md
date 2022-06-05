@@ -1,17 +1,19 @@
-# **Sand sweeper**
+# **Sand sweeper** 
 ____
 By : 
-
- **Eng. Abdulaziz Al-Fouzan**
-
-**Eng. Abdulaziz Al-Youhah**
-
- **Eng. Abdulwahab Al-Bassam**
-
+ **Eng. Abdulaziz Al-Fouzan**/
+<i class="fa-solid fa-gear"></i>
+**Eng. Abdulaziz Al-Youhah**/
+<i class="fa-solid fa-gear"></i>
+**Eng. Abdulwahab Al-Bassam**/
+<i class="fa-solid fa-gear"></i>
 **Eng. Mosab Marafi**
+
+
+
 ___
-### Abstracttttt 
-Sand accumulation on roads and streets is a significant problem facing Kuwait and the nearby countries. The sands impede the move ment of vehicles and cause car accidents. Fur thermore, it stands in the way of expanding and developing new cities and costs the coun try thousands of dinars every year. The "Sand Sweeper" is a car attachment with road sweep ing and bulldozing capabilities, specialized in removing the accumulated sand on the road to allow vehicles to pass through it.
+### Abstract 
+The idea of this product came from the need to find a more practical, less resource consuming solution to the problem of sand accumulation on roads. After researching the problem, interviewing the engineers of the ministry of public works, and studying similar products used in different environmental conditions. The Sand Sweeper was designed using SOLIDWORKS software based on the demands of the regional climate, Being the first of its kind in the field of sand removal. It was tested in real life and approved its efficiency while providing a time and money-saving solution.
 ___
 
 ### Reports :
