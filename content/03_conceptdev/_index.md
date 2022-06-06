@@ -18,5 +18,13 @@ Since governments with desert climates were considered to be the primary market,
 
 
 ## Initial Design Concept
+The initial design for the project started from the snow plow and it had been modified such that it
+can be used for sand removal as it was be more appropriate to start where others stopped.
 ![](images/fvgcv.png?width=40pc)
-## Functional Decomposition
+## Concept Generation & Selection
+The team listed all necessary functions of the product in order to generate
+concepts that could achieve these functions. A structured approach was made to
+make for a more effective decision on the final concept. All the concepts that were generated went
+through a concept screening and scoring method to obtain the relatively best concept. The table below shows the final concept selected for the project.
+
+![](images/bbhbhb.png)
