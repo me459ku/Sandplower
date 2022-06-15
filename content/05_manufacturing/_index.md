@@ -27,7 +27,7 @@ There were four ready made items for the prototype:
 
 #### The Frame
 The frame was split into two components called the chassis and the motor cage. The chassis is the supporting part of the frame while the motor cage is as the name suggests a resting mount for the motors and brushes.
-![](images/Picture17.png?width=40pC)
+![](images/IMG-20220608-WA0018.jpg?width=40pC)
 The chassis is composed of two main materials. The hollow square beams and the solid cylinder that allow for rotation. Relevant beams are first drilled using a drill bit for the cylinder to fit in the assembly of the component. Then the beams are joined together using welding and finally the cylinder is adjusted with a cylindrical metal bush in the joints. This allows for smoother rotation.
 
 #### The Motor-Cage
