@@ -4,7 +4,7 @@ date = 2022-01-16T12:26:22+03:00
 weight = 5
 +++
 
-![](images/IMG_6192.jpg)
+
 It should be noted that not all the components that were desired from the concepts have been implemented into the prototype due to time constraints. The manufacturing was outsourced and done by BMB workshop in Shuwaikh due to the fact that the prototype required skilled labor to manufacture.
 The available materials that were used for the prototype were:
 #### •	AISI 1020
