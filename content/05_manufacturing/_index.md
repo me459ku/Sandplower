@@ -46,6 +46,12 @@ The dimensions that were required were solid steel with a thickness of 5[cm]. th
 
 ## The Assembly
 After all the subassemblies were made and ready, all that was left was to assemble each of them and complete the manufacturing process. The motor cage, chassis and plow were all assembled by welding and the car joint was attached using bolts and pins.
-![](images/Picture21.png?width=40pC)
+
+![](images/IMG-20220611-WA0007.jpg)
+![](images/IMG_6198.jpeg)
+![](images/IMG_6208.jpeg)
+![](images/IMG_6186.jpeg)
+![](images/IMG_6196.jpg)
+
 
 
